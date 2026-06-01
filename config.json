@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartparse",
+        "uuid": 6120240,
+        "checksum": "zsj5oi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
